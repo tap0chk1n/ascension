@@ -15,7 +15,7 @@
 ## Установка
 
 ```bash
-git clone <ссылка на этот репозиторий>
+git clone https://github.com/tap0chk1n/ascension/tree/main
 cd ascension_prealphav001
 pip install -r requirements.txt
 ```
