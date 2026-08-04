@@ -16,7 +16,7 @@
 
 ```bash
 git clone <ссылка на этот репозиторий>
-cd icq_clone
+cd ascension_prealphav001
 pip install -r requirements.txt
 ```
 
