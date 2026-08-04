@@ -1,0 +1,18 @@
+{
+  "friends": "Друзья",
+  "channels": "Каналы",
+  "contacts": "Контакты",
+  "no_contacts": "нет",
+  "send": "Отправить",
+  "add": "Добавить",
+  "add_friend_placeholder": "Ник пользователя...",
+  "create_channel": "Создать канал",
+  "join_channel": "Вступить в канал",
+  "channel_name_prompt": "Название канала:",
+  "you_prefix": "Вы",
+  "chat_opened": "--- Открыт чат с {name} ---",
+  "chat_tab": "Чат",
+  "version_tab": "Версия",
+  "version_prefix": "версия",
+  "copyright": "© danilatapochkin 2026, все права не защищены"
+}

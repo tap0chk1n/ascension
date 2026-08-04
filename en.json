@@ -1,0 +1,18 @@
+{
+  "friends": "Friends",
+  "channels": "Channels",
+  "contacts": "Contacts",
+  "no_contacts": "none",
+  "send": "Send",
+  "add": "Add",
+  "add_friend_placeholder": "Username...",
+  "create_channel": "Create channel",
+  "join_channel": "Join channel",
+  "channel_name_prompt": "Channel name:",
+  "you_prefix": "You",
+  "chat_opened": "--- Chat opened with {name} ---",
+  "chat_tab": "Chat",
+  "version_tab": "Version",
+  "version_prefix": "version",
+  "copyright": "© danilatapochkin 2026, all rights not reserved"
+}
